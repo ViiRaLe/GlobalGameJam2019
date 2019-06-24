@@ -4,7 +4,7 @@
 
 ## Team Marmellata
 
-#Awarded "Best Art" at GGJ19Milan https://globalgamejam.org/2019/games/finding-me
+# Awarded "Best Art" at GGJ19Milan https://globalgamejam.org/2019/games/finding-me
 
 Finding Me is a simple 2D platform game made in Unity3D for the GGJ19.
 It features a small experience with visual language to describe a story about love.
