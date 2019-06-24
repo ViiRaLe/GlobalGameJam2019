@@ -1,8 +1,8 @@
 # Global Game Jam 2019 at Milan   FINDING ME
 
-##MY ROLE: Lead Programmer
+## MY ROLE: Lead Programmer
 
-##Team Marmellata
+## Team Marmellata
 
 #Awarded "Best Art" at GGJ19Milan https://globalgamejam.org/2019/games/finding-me
 
