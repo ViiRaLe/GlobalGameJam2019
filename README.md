@@ -1,12 +1,15 @@
-# GlobalGameJam2019 oof
+# Global Game Jam 2019 at Milan   FINDING ME
 
-Global Game Jam project 2019
+##MY ROLE: Lead Programmer
 
-Team Marmellata
+##Team Marmellata
 
-Awarded "Best Art" at GGJ19
+#Awarded "Best Art" at GGJ19Milan https://globalgamejam.org/2019/games/finding-me
 
-Team members:
+Finding Me is a simple 2D platform game made in Unity3D for the GGJ19.
+It features a small experience with visual language to describe a story about love.
+
+## Team members:
 
 Designers:
 
@@ -27,3 +30,11 @@ Programmers:
 Marco Casagrande
 Mattia Pagani
 Francesco Vassallo
+
+## Project Tab
+
+Project duration: 2 days
+
+Tools: Unity3D, Spine, Photoshop, GIMP
+
+Activities done: UI programming, gameplay programming, Asset creation
