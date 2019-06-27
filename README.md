@@ -7,7 +7,8 @@
 # Awarded "Best Art" at GGJ19Milan https://globalgamejam.org/2019/games/finding-me
 
 Finding Me is a simple 2D platform game made in Unity3D for the GGJ19.
-It features a small experience with visual language to describe a story about love.
+
+Live a journey to find the true meaning of "Home". Walk and jump throught the deepest levels you can find to discover what you may already have. Finding Me is a short platform game that aims to tell a simple but sentimental story .
 
 ## Team members:
 
