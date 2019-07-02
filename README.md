@@ -40,4 +40,4 @@ Tools: Unity3D, Spine, Photoshop, GIMP
 
 Activities done: UI programming, gameplay programming, Asset creation
 
-https://github.com/ViiRaLe/GlobalGameJam2019/releases
+# [RELEASE](https://github.com/ViiRaLe/GlobalGameJam2019/releases)
