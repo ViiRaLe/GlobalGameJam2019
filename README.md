@@ -39,3 +39,5 @@ Project duration: 2 days
 Tools: Unity3D, Spine, Photoshop, GIMP
 
 Activities done: UI programming, gameplay programming, Asset creation
+
+https://github.com/ViiRaLe/GlobalGameJam2019/releases
